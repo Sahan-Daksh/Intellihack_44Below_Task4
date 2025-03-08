@@ -4,6 +4,30 @@
 
 This project implements a machine learning solution to predict stock closing prices 5 trading days into the future using historical stock data spanning from 1980 to 2005. The solution includes comprehensive exploratory data analysis, feature engineering, model development, and performance evaluation through both statistical metrics and simulated trading.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Approach Summary](#approach-summary)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Feature Engineering](#feature-engineering)
+  - [Model Selection](#model-selection)
+  - [Performance Evaluation](#performance-evaluation)
+- [Key Findings](#key-findings)
+- [Reproduction Instructions](#reproduction-instructions)
+  - [Environment Setup](#environment-setup)
+  - [Running the Analysis](#running-the-analysis)
+    - [Data Preparation](#data-preparation)
+    - [Running the Analysis](#running-the-analysis)
+    - [Exploratory Data Analysis](#exploratory-data-analysis-1)
+    - [Feature Engineering](#feature-engineering-1)
+    - [Model Development](#model-development)
+    - [Model Evaluation](#model-evaluation)
+    - [Generating Predictions](#generating-predictions)
+- [Project Structure](#project-structure)
+- [Limitations and Future Improvements](#limitations-and-future-improvements)
+  - [Current Limitations](#current-limitations)
+  - [Future Improvements](#future-improvements)
+
 ## Approach Summary
 
 ### Data Preprocessing
